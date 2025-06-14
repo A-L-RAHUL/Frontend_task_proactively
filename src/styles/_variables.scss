@@ -1,0 +1,35 @@
+// Colors
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+$background-color: #ffffff;
+$text-color: #333333;
+$accent-color: #ffc107;
+
+// Typography
+$font-family-primary: 'Arial', sans-serif;
+$font-family-secondary: 'Helvetica', sans-serif;
+$font-size-base: 16px;
+$font-size-large: 20px;
+$font-size-small: 14px;
+
+// Spacing
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+// Breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// Z-index
+$z-index-navbar: 1000;
+$z-index-mobile-menu: 1001;
+$z-index-modal: 1002;
+
+// Transitions
+$transition-speed: 0.3s;
+$transition-timing: ease-in-out; 
